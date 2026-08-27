@@ -13,13 +13,13 @@ Evaluation pipeline for LLM watermark detection experiments. This tool orchestra
 ## Installation
 
 ```bash
-pip install waterpipe
+pip install llm-waterpipe
 ```
 
 For all features (metrics and attacks):
 
 ```bash
-pip install waterpipe[all]
+pip install llm-waterpipe[all]
 ```
 
 ## Quick Start
