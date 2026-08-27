@@ -1,5 +1,9 @@
 # waterpipe
 
+[![PyPI](https://img.shields.io/pypi/v/llm-waterpipe)](https://pypi.org/project/llm-waterpipe/)
+[![License](https://img.shields.io/pypi/l/llm-waterpipe)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/pypi/pyversions/llm-waterpipe)](https://pypi.org/project/llm-waterpipe/)
+
 Evaluation pipeline for LLM watermark detection experiments. This tool orchestrates the complete experimental workflow for watermark research: text generation, watermark detection, quality metrics, and robustness testing against attacks.
 
 ## Features
